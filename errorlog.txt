@@ -1,0 +1,6 @@
+Error Log:
+##########
+B004601GY4: HTTPConnectionPool(host='.', port=80): Max retries exceeded with url: http://www.amazon.com/dp/B004601GY4 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f65cb45f8d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))),
+B004601GY4: HTTPConnectionPool(host='http2', port=80): Max retries exceeded with url: http://www.amazon.com/dp/B004601GY4 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7efcde4ae8d0>: Failed to establish a new connection: [Errno -2] Name or service not known',))),
+B004601GY4: No host specified.,
+B004601GY4: HTTPConnectionPool(host='9', port=80): Max retries exceeded with url: http://www.amazon.com/dp/B004601GY4 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcb76ad48d0>: Failed to establish a new connection: [Errno 22] Invalid argument',))),
